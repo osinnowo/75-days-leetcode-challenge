@@ -1,5 +1,5 @@
 class Solution:
-    # https://leetcode.com/problems/greatest-common-divisor-of-strings/submissions/
+    # https://leetcode.com/problems/merge-strings-alternately/?envType=study-plan-v2&envId=leetcode-75
     def mergeAlternately(self, word1: str, word2: str) -> str:
         result = ""
         i = 0
