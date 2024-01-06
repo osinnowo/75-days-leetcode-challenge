@@ -10,7 +10,7 @@ class Solution {
                 sb.append(word2.charAt(j));
                 j += 1;
             }
-        
+        }
         while(i < word1.length()) {
             sb.append(word1.charAt(i));
             i += 1;
