@@ -36,3 +36,5 @@ class Solution:
 
             return paths
         return count_paths(root, targetSum)
+
+
