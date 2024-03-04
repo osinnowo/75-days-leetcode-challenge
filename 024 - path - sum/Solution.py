@@ -30,6 +30,7 @@ class Solution:
             if node.val == current_sum:
                 paths += 1
 
+
             # Check paths in the left and right subtrees with updated sum
             paths += count_paths_from_node(node.left, current_sum - node.val)
             paths += count_paths_from_node(node.right, current_sum - node.val)
