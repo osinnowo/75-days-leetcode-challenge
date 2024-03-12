@@ -38,18 +38,4 @@ class Solution:
         return count_paths(root, targetSum)
     
 
-
-    
-    
-
-
-    
-
-
-
-
-
-
-
-
         
