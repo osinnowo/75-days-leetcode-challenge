@@ -34,13 +34,8 @@ class Solution:
             paths += count_paths_from_node(node.right, current_sum - node.val)
 
             return paths
+        
         return count_paths(root, targetSum)
-    
-
-
-
-
-
 
 
 
