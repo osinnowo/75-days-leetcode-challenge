@@ -12,3 +12,7 @@ class Solution:
             return freq_word1 == freq_word2
 
         return False
+
+
+
+
