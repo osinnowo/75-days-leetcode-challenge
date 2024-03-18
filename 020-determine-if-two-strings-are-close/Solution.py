@@ -10,9 +10,4 @@ class Solution:
             freq_word2.sort()
 
             return freq_word1 == freq_word2
-
         return False
-
-
-
-
