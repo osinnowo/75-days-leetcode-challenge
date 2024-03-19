@@ -16,7 +16,6 @@ class Solution {
                 map.put(num, map.get(num) + 1);
             }
         }
-
         return max;
     }
 }
