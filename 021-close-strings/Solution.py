@@ -17,5 +17,6 @@ class Solution:
         # Step 4: Check if counts are the same
         count_values_word1 = sorted(count_word1.values())
         count_values_word2 = sorted(count_word2.values())
-
         return count_values_word1 == count_values_word2
+    
+
