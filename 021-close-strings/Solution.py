@@ -19,3 +19,6 @@ class Solution:
         count_values_word2 = sorted(count_word2.values())
 
         return count_values_word1 == count_values_word2
+    
+
+    
